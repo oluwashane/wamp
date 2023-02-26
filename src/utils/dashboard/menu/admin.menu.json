@@ -1,0 +1,911 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "home",
+    "link": ""
+  },
+  {
+    "title": "Individuals Mgmt",
+    "icon": "profile-2user",
+    "link": "",
+    "children": [
+      {
+        "title": "Individuals",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Base Record",
+        "icon": "building-4",
+        "link": "admin/base-record"
+      },
+      {
+        "title": "Base Records",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Institutions",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Classes of Degree",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Industries",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Certification Groups",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Certification Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Skill Categories",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Program Type",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Courses of Study",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Education Levels",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Fiscal Years",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Disciplines",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Job Titles",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "LGAs",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "States of Origin",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Nationalities",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Service Company Mgmt",
+    "icon": "home",
+    "link": "",
+    "children": [
+      {
+        "title": "Service Companies",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Create New",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Certificate of Registration Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Base Records",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Equipment Categories",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Raw Material Categories",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Service Categories",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Facility Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Service Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "R & D Areas",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Vessel Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "NCEC Equipment Data",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "NCEC Operation Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Units of Measurement",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Equipment Specific Fields",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "OEM",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Operator Mgmt",
+    "icon": "briefcase",
+    "link": "",
+    "children": [
+      {
+        "title": "Operators",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Base Records",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Work Programme Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Project Category Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Industry Projects",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Lease Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Operator Types",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Reporting Periods",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Submission Cycles",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Tender Services",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Report Mgmt",
+    "icon": "forward-square",
+    "link": "",
+    "children": [
+      {
+        "title": "Individual Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "General Dashboard",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "List of Individuals",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Academic Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Training Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Skill Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Certification Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Job Experience Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Geographic Report",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Competency Search",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Service Company Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Companies Overview",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Services Dashboard",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Staff",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Shareholders",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Affiliates",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Facilities",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Quality Assurance",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Equipments Overview",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Equipments",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Raw Materials",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Expatriate Quota",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Certificate of Registration",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Operator Mgt Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Operator Overview",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Staff",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Work Programmes",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Leases",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Contracts",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Projects",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Expatriate Quota",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Statutory Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Report",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Capacity Building",
+    "icon": "building-4",
+    "link": "",
+    "children": [
+      {
+        "title": "Skill Gap Mgmt",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Training Management",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "OGTAN Trainers Mgmt",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Academia/Common Industry Mgmt",
+    "icon": "medal",
+    "link": "",
+    "children": [
+      {
+        "title": "Research Institutions Profiles",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Center of Excellence",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Academic Sessions",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Research Works",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Researches Claimed",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Tender MGMT",
+    "icon": "home",
+    "link": ""
+  },
+  {
+    "title": "Advert MGMT",
+    "icon": "video-vertical",
+    "link": ""
+  },
+  {
+    "title": "Training",
+    "icon": "folder-open",
+    "link": ""
+  },
+  {
+    "title": "R & D (Plans, Activities & Initiatives)",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Expatriate Quota Application",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "5% Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "All EQ Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "All EQ Approved Positions",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Nigerianized Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Archived Application",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Temporary Work Permits",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "All Application",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "All Approved Positions",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Exchange Programs",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "All Application",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "All Approved Positions",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Notification Emails",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Marine Vessel Categorization",
+    "icon": "ship",
+    "link": "",
+    "children": [
+      {
+        "title": "Updated Vessels",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Search Categorization",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Publish Maring Vessel Report",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Generate/Publish Reports",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Overview",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Categorization",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Process Guidelines",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Publications MGMT",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "Proposal and Tender Advert",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Scholarship/Employment Advert",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Communique",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Bulletin",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "NCEC Managment",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "NCEC Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "NCEC APplications Report",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "NCEC Archived Applications",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Marine Vessel Application",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "All Applications",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Report",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "NCTRC MGMT",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Rig Application",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Document MGMT",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Statutory Reports",
+    "icon": "document-text",
+    "link": "",
+    "children": [
+      {
+        "title": "R & D (Plans, Activities & Initiatives)",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Technology Transfers",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Succession Plans",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Employment anf Trainings",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Legal plans",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Insurance Plans",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Financial Plans",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "Statistics",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "R & D",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monitoring",
+    "icon": "monitor",
+    "link": "",
+    "children": [
+      {
+        "title": "Succession Plans",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Monitoring Engagements",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Nigerianization",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Whistle Blowers",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "NC Performance",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Reports",
+        "icon": null,
+        "link": "",
+        "children": [
+          {
+            "title": "General Analysis",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Staff Analysis",
+            "icon": null,
+            "link": ""
+          },
+          {
+            "title": "Whistle Blower Analysis",
+            "icon": null,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Audit Trail",
+    "icon": "ticket-star",
+    "link": ""
+  },
+  {
+    "title": "Content Management System",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "Pages",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Site Navigation",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Attachements",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Email Templates",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Bulk Upload Templates",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Generic Documents MGT",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Frequently Asked Question",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "User Administration",
+    "icon": "ticket-star",
+    "link": "",
+    "children": [
+      {
+        "title": "Directorate Management",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Department Management",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Position Management",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "User Managerment",
+        "icon": null,
+        "link": ""
+      },
+      {
+        "title": "Unit/Team Management",
+        "icon": null,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Bulk Upload MGMT",
+    "icon": "import",
+    "link": ""
+  },
+  {
+    "title": "System Setting",
+    "icon": "setting",
+    "link": ""
+  }
+]

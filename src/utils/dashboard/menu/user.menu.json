@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "home",
+    "link": "/user"
+  },
+  {
+    "title": "Investments",
+    "icon": "investment",
+    "link": "/user/investments"
+  },
+  {
+    "title": "Plans",
+    "icon": "plan",
+    "link": "/user/plans"
+  },
+  {
+    "title": "Withdrawals",
+    "icon": "withdraw",
+    "link": "/user/withdrawal"
+  },
+  {
+    "title": "profile",
+    "icon": "home",
+    "link": "/user/profile"
+  }
+]
